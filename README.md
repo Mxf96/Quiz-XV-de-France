@@ -20,6 +20,7 @@ Si vous souhaitez contribuer ou signaler un problème, n'hésitez pas à ouvrir 
 ## Licence
 
 Ce projet est sous licence libre. Vous êtes libre de le cloner, de le modifier et de le redistribuer.
+________________________________________________________________________________________________________________________________________________
 
 # Quiz_XV_of_France
 Welcome to the “Quiz_XV_de_France” project for the AdverGame Challenge 2023.
