@@ -4,7 +4,8 @@ Bienvenue sur le projet "Quiz_XV_de_France" pour le AdverGame Challenge 2023.
 
 ## Accéder au jeu
 
-Vous pouvez accéder au jeu en utilisant le lien suivant : [Quiz XV de France 2023](https://quiz-xv-de-france-2023.000webhostapp.com/)
+Vous pouvez accéder au jeu en utilisant les liens suivants : [Quiz XV de France 2023](https://quiz-xv-de-france-2023.000webhostapp.com/) /
+                                                             [Quiz XV de France 2023](quiz-xv-de-france.go.yo.fr)
 
 ## À propos
 
